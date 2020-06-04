@@ -1,3 +1,3 @@
 # gitpracticefromspringboard
-practicing with springboard! Silyl demo repo to demonstrate github workflow.
+practicing with springboard! Silly demo repo to demonstrate github workflow.
 
